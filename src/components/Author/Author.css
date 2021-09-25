@@ -1,0 +1,15 @@
+.author-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.author {
+    background: #f1f2f6;
+    border: none;
+}
+.author h5 span {
+    font-weight: 700;
+}
+.btn-author {
+    background: lightblue;
+}

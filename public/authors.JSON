@@ -1,0 +1,86 @@
+[
+  {
+    "image": "./images/img1.jpg",
+    "name":"Armando Lucas Correa",
+    "country":"Cuba",
+    "age":62,
+    "type":"journalist",
+    "book":"The Daughter’s Tale",
+    "bookPrice":1250
+}
+  ,
+  {
+    "image": "./images/img2.jpg",
+    "name":"Helen Phillips",
+    "age":40,
+    "country":"USA",
+    "type":"novelist",
+    "book":"The Beautiful Bureaucrat",
+    "bookPrice":800
+  },
+  {
+    "image": "./images/img3.jpg",
+    "name":"Karen Kingsbury",
+    "age":58,
+    "country":"USA",
+    "type":"novelist",
+    "book":"Love Story",
+    "bookPrice":620
+  },
+  {
+    "image": "./images/img4.jpg",
+    "name":"Kristin Harmel",
+    "age":42,
+    "country":"USA",
+    "type":"novelist",
+    "book":"The Winemaker’s Wife",
+    "bookPrice":450
+  },
+  {
+    "image": "./images/img5.jpg",
+    "name":"Rebecca Serle",
+    "age":42,
+    "country":"USA",
+    "type":"tv writer",
+    "book":"The Dinner List",
+    "bookPrice":250
+  },
+  {
+    "image": "./images/img6.jpg",
+    "name":"Sally Rooney",
+    "age":40,
+    "country":"Ireland",
+    "type":"screen writer",
+    "book":"Normal People",
+    "bookPrice":150
+  },
+  {
+    "image": "./images/img7.jfif",
+    "name":"Lisa Jewell",
+    "age":53,
+    "country":"UK",
+    "type":"novelist",
+    "book":"The Family Upstairs",
+    "bookPrice":900
+  },
+  {
+    "image": "./images/img8.jpg",
+    "name":"Haruki Murakami",
+    "age":72,
+    "country":"Japan",
+    "type":"short stories writer",
+    "book":"Kafka on the Shore",
+    "bookPrice":397
+  },
+  {
+    "image": "./images/img9.jpg",
+    "name":"Kiley Reid",
+    "age":72,
+    "country":"USA",
+    "type":"novelist",
+    "book":"Such a Fun Age",
+    "bookPrice":200
+  }
+]
+
+
