@@ -7,7 +7,7 @@ const Header = () => {
       <h1>Authors guild</h1>
       <p>
         We are a club where renowned authors from different countries share
-        their thoughts.Besides,we also purchase different books.
+        their thoughts.
       </p>
       <h1>
         Total budget: 5000000${" "}
