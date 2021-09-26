@@ -1,13 +1,12 @@
-import React from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
-
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import React from "react";
 import "./Author.css";
 
 // Creating author component for rendering every single author
 
 const Author = (props) => {
-  const { image, name, type, age, country, book, bookPrice } = props.author;
+  const { image, name, type, age, country, book, salary } = props.author;
   const cartIcon = <FontAwesomeIcon icon={faShoppingCart} />;
 
   return (
@@ -31,7 +30,7 @@ const Author = (props) => {
             Book: <span>{book}</span>
           </h5>
           <h5 className="book-price">
-            Book-price: <span>{bookPrice}$</span>
+            Book-price: <span>{salary}$</span>
           </h5>
         </div>
         <div>

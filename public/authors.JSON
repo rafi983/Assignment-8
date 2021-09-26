@@ -1,86 +1,137 @@
 [
   {
     "image": "./images/img1.jpg",
-    "name":"Armando Lucas Correa",
-    "country":"Cuba",
-    "age":62,
-    "type":"journalist",
-    "book":"The Daughter’s Tale",
-    "bookPrice":1250
-}
-  ,
+    "name": "Armando Lucas Correa",
+    "country": "Cuba",
+    "age": 62,
+    "type": "Journalist",
+    "book": "The Daughter’s Tale",
+    "salary": 5250
+  },
   {
     "image": "./images/img2.jpg",
-    "name":"Helen Phillips",
-    "age":40,
-    "country":"USA",
-    "type":"novelist",
-    "book":"The Beautiful Bureaucrat",
-    "bookPrice":800
+    "name": "Helen Phillips",
+    "age": 40,
+    "country": "USA",
+    "type": "Novelist",
+    "book": "The Beautiful Bureaucrat",
+    "salary": 2800
   },
   {
     "image": "./images/img3.jpg",
-    "name":"Karen Kingsbury",
-    "age":58,
-    "country":"USA",
-    "type":"novelist",
-    "book":"Love Story",
-    "bookPrice":620
+    "name": "Karen Kingsbury",
+    "age": 58,
+    "country": "USA",
+    "type": "Novelist",
+    "book": "Love Story",
+    "salary": 5620
   },
   {
     "image": "./images/img4.jpg",
-    "name":"Kristin Harmel",
-    "age":42,
-    "country":"USA",
-    "type":"novelist",
-    "book":"The Winemaker’s Wife",
-    "bookPrice":450
+    "name": "Kristin Harmel",
+    "age": 42,
+    "country": "USA",
+    "type": "Novelist",
+    "book": "The Winemaker’s Wife",
+    "salary": 2450
   },
   {
     "image": "./images/img5.jpg",
-    "name":"Rebecca Serle",
-    "age":42,
-    "country":"USA",
-    "type":"tv writer",
-    "book":"The Dinner List",
-    "bookPrice":250
+    "name": "Rebecca Serle",
+    "age": 42,
+    "country": "USA",
+    "type": "Tv writer",
+    "book": "The Dinner List",
+    "salary": 3250
   },
   {
     "image": "./images/img6.jpg",
-    "name":"Sally Rooney",
-    "age":40,
-    "country":"Ireland",
-    "type":"screen writer",
-    "book":"Normal People",
-    "bookPrice":150
+    "name": "Sally Rooney",
+    "age": 40,
+    "country": "Ireland",
+    "type": "Screen writer",
+    "book": "Normal People",
+    "salary": 4450
   },
   {
-    "image": "./images/img7.jfif",
-    "name":"Lisa Jewell",
-    "age":53,
-    "country":"UK",
-    "type":"novelist",
-    "book":"The Family Upstairs",
-    "bookPrice":900
+    "image": "./images/img7.jpg",
+    "name": "Lisa Jewell",
+    "age": 53,
+    "country": "UK",
+    "type": "Fiction",
+    "book": "The Family Upstairs",
+    "salary": 7900
   },
   {
     "image": "./images/img8.jpg",
-    "name":"Haruki Murakami",
-    "age":72,
-    "country":"Japan",
-    "type":"short stories writer",
-    "book":"Kafka on the Shore",
-    "bookPrice":397
+    "name": "Haruki Murakami",
+    "age": 72,
+    "country": "Japan",
+    "type": "Short stories writer",
+    "book": "Kafka on the Shore",
+    "salary": 2397
   },
   {
     "image": "./images/img9.jpg",
-    "name":"Kiley Reid",
-    "age":72,
-    "country":"USA",
-    "type":"novelist",
-    "book":"Such a Fun Age",
-    "bookPrice":200
+    "name": "Kiley Reid",
+    "age": 72,
+    "country": "USA",
+    "type": "Novelist",
+    "book": "Such a Fun Age",
+    "salary": 2200
+  },
+  {
+    "image": "./images/img10.jpg",
+    "name": "Terry McMillan ",
+    "age": 69,
+    "country": "USA",
+    "type": "Novelist",
+    "book": "How Stella Got Her Groove Back",
+    "salary": 4100
+  },
+  {
+    "image": "./images/img11.jpg",
+    "name": "Mary Kubica",
+    "age": 52,
+    "country": "USA",
+    "type": "Crime writer",
+    "book": "The Good Girl",
+    "salary": 6000
+  },
+  {
+    "image": "./images/img12.jpeg",
+    "name": "Colleen Oakley",
+    "age": 50,
+    "country": "USA",
+    "type": "Love stories writer",
+    "book": "Before I Go",
+    "salary": 1970
+  },
+  {
+    "image": "./images/img13.jfif",
+    "name": "Stephen Graham Jones",
+    "age": 49,
+    "country": "USA",
+    "type": "Fiction writer",
+    "book": "Mongrels",
+    "salary": 6300
+  },
+  {
+    "image": "./images/img14.jpg",
+    "name": "Jeanine Cummins",
+    "age": 46,
+    "country": "Spain",
+    "type": "Literal novels",
+    "book": "The Outside Boy",
+    "salary": 7450
+  },
+  {
+    "image": "./images/img15.jpg",
+    "name": "Imbolo Mbue",
+    "age": 39,
+    "country": "Cameroon",
+    "type": "Novelist",
+    "book": "Behold the Dreamers",
+    "salary": 5100
   }
 ]
-
-
