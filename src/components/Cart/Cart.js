@@ -2,13 +2,12 @@ import { faMoneyBill, faUser } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
 
-// Cart component for calculating carts items and selected authors
+// Cart component for calculating cart's selected authors
 
 const Cart = (props) => {
   const personIcon = <FontAwesomeIcon icon={faUser} />;
   const moneyIcon = <FontAwesomeIcon icon={faMoneyBill} />;
   const { authorname, cart } = props;
-  console.log(authorname);
 
   let totalQuantity = 0;
   let total = 0;

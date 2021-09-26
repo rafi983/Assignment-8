@@ -30,7 +30,7 @@ const Author = (props) => {
             Book: <span>{book}</span>
           </h5>
           <h5 className="book-price">
-            Book-price: <span>{salary}$</span>
+            Salary: <span>{salary}$</span>
           </h5>
         </div>
         <div>
