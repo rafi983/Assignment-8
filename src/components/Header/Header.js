@@ -10,7 +10,7 @@ const Header = () => {
         their thoughts.Besides,we also purchase different books.
       </p>
       <h1>
-        Total budget: 500000${" "}
+        Total budget: 5000000${" "}
         <span className="budget-purpose">
           (for collecting books from other shops)
         </span>
