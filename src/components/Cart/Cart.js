@@ -8,6 +8,7 @@ const Cart = (props) => {
   const personIcon = <FontAwesomeIcon icon={faUser} />;
   const moneyIcon = <FontAwesomeIcon icon={faMoneyBill} />;
   const { authorname, cart } = props;
+  console.log(authorname);
 
   let totalQuantity = 0;
   let total = 0;
@@ -32,7 +33,7 @@ const Cart = (props) => {
         </h1>
         <h1>
           {moneyIcon} Total cost: <br /> ${" "}
-          <span className="value">{total.toFixed(2)}</span>
+          <span className="value">{total}</span>
         </h1>
       </div>
       <h3>Selected Authors</h3>
